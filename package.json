@@ -1,0 +1,10 @@
+{
+  "name": "nodejs-file-manager",
+  "version": "0.1.0",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Denis Tivikov",
+  "license": "ISC",
+  "type": "module"
+}
